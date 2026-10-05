@@ -92,7 +92,8 @@ section[id],article[id]{scroll-margin-top:24px}
 .departments-box h3{margin:0;font-size:22px;font-weight:500}
 .departments-box p{font-size:21px;line-height:1.45;margin:8px 0 10px}
 .departments-box small{font-size:12px}
-.site-footer{height:34px;background:var(--cyan);color:white;text-align:center;font-size:12px;line-height:34px}
+.site-footer{background:var(--cyan);color:var(--ink);text-align:center;font-size:12px;line-height:1.6;padding:10px 20px}
+.site-footer p{margin:4px auto 0}
 
 /* sub pages */
 .sub-header{height:62px}
@@ -222,7 +223,7 @@ section[id],article[id]{scroll-margin-top:24px}
   .about-detail h1,.about-detail h2{font-size:18px;margin:0 0 22px}
   .about-detail .notice-card{padding:9px 12px;line-height:1.25}
   .about-detail:first-child .notice-card{margin-inline:12px}
-  .site-footer{height:12px;line-height:12px;font-size:6px}
+  .site-footer{font-size:10px;padding:10px 14px}
 }
 
 @media (max-width:360px){
